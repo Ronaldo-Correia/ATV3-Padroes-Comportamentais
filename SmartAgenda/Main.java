@@ -1,6 +1,7 @@
 package SmartAgenda;
 
 import SmartAgenda.Command.Comando;
+import SmartAgenda.Command.EnviarEmail;
 import SmartAgenda.Command.ExecutorDeTarefas;
 import SmartAgenda.Command.TocarAlarme;
 import SmartAgenda.observer.Logar;

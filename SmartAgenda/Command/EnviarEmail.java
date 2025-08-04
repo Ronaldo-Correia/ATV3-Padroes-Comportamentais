@@ -1,6 +1,4 @@
-package SmartAgenda;
-
-import SmartAgenda.Command.Comando;
+package SmartAgenda.Command;
 
 public class EnviarEmail implements Comando {
   public void executar() {
