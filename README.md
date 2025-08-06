@@ -122,10 +122,12 @@ Flexibilidade e extensibilidade de sistemas
 
 1. **Clone o repositório:**
    
-    git clone https://github.com/seu-usuario/SmartAgenda.git
+1. 1- git clone https://github.com/seu-usuario/SmartAgenda.git
     cd SmartAgenda
+2. 2- Navegue até o diretório do projeto:
+cd ATV3-Padroes-Comportamentais
 
-
+3- Execute o programa no arquivo 'main.java' ao clicar no botao "Run" na sua IDEA.
 
 
 ## 📝 OBSERVAÇÕES FINAIS
