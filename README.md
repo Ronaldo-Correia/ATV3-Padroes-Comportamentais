@@ -115,14 +115,14 @@ Flexibilidade e extensibilidade de sistemas
 ## 👨‍💻 AUTORES
 - Marcelo de Jesus
 - Ronaldo Correia
-
-[IFBA-Instituto Federal da Bahia] – Orientador(a) Felipe Silva
+[IFBA-Instituto Federal da Bahia]
+– Orientador(a) Felipe Silva
 
 ## 🚀 COMO EXECUTAR
 
 1. **Clone o repositório:**
    
-1. 1- git clone https://github.com/seu-usuario/SmartAgenda.git
+1. 1- git clone [ https://github.com/seu-usuario/SmartAgenda.git](https://github.com/Ronaldo-Correia/ATV3-Padroes-Comportamentais.git)
     cd SmartAgenda
 2. 2- Navegue até o diretório do projeto:
 cd ATV3-Padroes-Comportamentais
